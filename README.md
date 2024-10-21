@@ -31,7 +31,7 @@ This repository contains various analytics projects. Below is a description of e
    - **Goal:** Analyze TED talks and conferences to identify patterns in popular speeches.
    - **Tasks:** Explore speaker characteristics, speech durations, and audience engagement.
    - **Data:** TED talks dataset, including views, ratings, and speaker details.
-   - **Project Link:** [Explore the project on Tableau](https://public.tableau.com/views/TED_17280788655360/sheet17?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+   - **Project Link:** [Explore the project on Tableau](https://public.tableau.com/views/TED_17280788655360/TED?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 ### 7. **Unused Things**
