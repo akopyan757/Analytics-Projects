@@ -1,0 +1,328 @@
+conf_id,event,country
+0,Arbejdsglaede Live,United States
+1,Business Innovation Factory,United States
+2,Chautauqua Institution,United States
+3,DLD 2007,United States
+4,EG 2007,United States
+5,EG 2008,United States
+6,Elizabeth G. Anderson School,United States
+7,Full Spectrum Auditions,United States
+8,INK Conference,United States
+9,LIFT 2007,United States
+10,Mission Blue II,United States
+11,Mission Blue Voyage,Ecuador
+12,Serious Play 2008,United States
+13,Skoll World Forum 2007,United States
+14,TED Dialogues,United States
+15,TED Fellows 2015,United States
+16,TED Fellows Retreat 2013,United States
+17,TED Fellows Retreat 2015,United States
+18,TED Prize Wish,United States
+19,TED Residency,United States
+20,TED Senior Fellows at TEDGlobal 2010,United States
+21,TED Studio,United States
+22,TED Talks Education,United States
+23,TED Talks Live,United States
+24,TED in the Field,United States
+25,TED-Ed Weekend,United States
+26,TED1984,United States
+27,TED1990,United States
+28,TED1994,United States
+29,TED1998,United States
+30,TED2001,United States
+31,TED2002,United States
+32,TED2003,United States
+33,TED2004,United States
+34,TED2005,United States
+35,TED2006,United States
+36,TED2007,United States
+37,TED2008,United States
+38,TED2009,United States
+39,TED2010,United States
+40,TED2011,United States
+41,TED2012,United States
+42,TED2013,United States
+43,TED2014,Canada
+44,TED2015,Canada
+45,TED2016,Canada
+46,TED2017,Canada
+47,TED2018,Canada
+48,TED2019,Canada
+49,TED@BCG Berlin,Germany
+50,TED@BCG London,UK
+51,TED@BCG Paris,France
+52,TED@BCG San Francisco,United States
+53,TED@BCG Singapore,Singapore
+54,TED@Bangalore,India
+55,TED@Cannes,France
+56,TED@IBM,United States
+57,TED@Intel,United States
+58,TED@Johannesburg,South Africa
+59,TED@London,UK
+60,TED@MotorCity,United States
+61,TED@NYC,United States
+62,TED@Nairobi,Kenya
+63,TED@New York,United States
+64,TED@SXSWi,United States
+65,TED@State,United States
+66,TED@State Street Boston,United States
+67,TED@State Street London,UK
+68,TED@UPS,United States
+69,TED@Unilever,United States
+70,TEDActive 2011,United States
+71,TEDActive 2013,United States
+72,TEDActive 2014,Canada
+73,TEDActive 2015,Canada
+74,TEDCity2.0,United States
+75,TEDGlobal 2005,UK
+76,TEDGlobal 2007,Tanzania
+77,TEDGlobal 2009,UK
+78,TEDGlobal 2010,UK
+79,TEDGlobal 2011,UK
+80,TEDGlobal 2012,UK
+81,TEDGlobal 2013,UK
+82,TEDGlobal 2014,Brazil
+83,TEDGlobal 2017,Tanzania
+84,TEDGlobal>Geneva,Switzerland
+85,TEDGlobal>London,UK
+86,TEDGlobalLondon,UK
+87,TEDIndia 2009,India
+88,TEDLagos Ideas Search,Nigeria
+89,TEDMED 2009,United States
+90,TEDMED 2010,United States
+91,TEDMED 2011,United States
+92,TEDMED 2012,United States
+93,TEDMED 2013,United States
+94,TEDMED 2014,United States
+95,TEDMED 2015,United States
+96,TEDMED 2016,United States
+97,TEDNYC,United States
+98,TEDNairobi Ideas Search,Kenya
+99,TEDPrize@UN,United States
+100,TEDSalon 2006,United States
+101,TEDSalon 2007 Hot Science,United States
+102,TEDSalon 2009 Compassion,United States
+103,TEDSalon Berlin 2014,Germany
+104,TEDSalon London 2009,UK
+105,TEDSalon London 2010,UK
+106,TEDSalon London Fall 2011,UK
+107,TEDSalon London Fall 2012,UK
+108,TEDSalon London Spring 2011,UK
+109,TEDSalon London Spring 2012,UK
+110,TEDSalon NY2011,United States
+111,TEDSalon NY2012,United States
+112,TEDSalon NY2013,United States
+113,TEDSalon NY2014,United States
+114,TEDSalon NY2015,United States
+115,TEDSummit,Canada
+116,TEDSummit 2019,UK
+117,TEDWomen 2010,United States
+118,TEDWomen 2013,United States
+119,TEDWomen 2015,United States
+120,TEDWomen 2016,United States
+121,TEDWomen 2017,United States
+122,TEDWomen 2018,United States
+123,TEDWomen 2019,United States
+124,TEDWomen 2020,United States
+125,TEDYouth 2011,United States
+126,TEDYouth 2012,United States
+127,TEDYouth 2013,United States
+128,TEDYouth 2014,United States
+129,TEDYouth 2015,United States
+130,TEDxABQ,United States
+131,TEDxAmazonia,Brazil
+132,TEDxAmericanRiviera,United States
+133,TEDxAmoskeagMillyard,United States
+134,TEDxAmsterdam,Netherlands
+135,TEDxArendal,Norway
+136,TEDxAthens,Greece
+137,TEDxAtlanta,United States
+138,TEDxAustin,United States
+139,TEDxBG,United States
+140,TEDxBeaconStreet,United States
+141,TEDxBeirut,Lebanon
+142,TEDxBend,United States
+143,TEDxBerkeley,United States
+144,TEDxBerlin,Germany
+145,TEDxBinghamtonUniversity,United States
+146,TEDxBloomington,United States
+147,TEDxBoston,United States
+148,TEDxBoston 2009,United States
+149,TEDxBoston 2010,United States
+150,TEDxBoston 2011,United States
+151,TEDxBoston 2012,United States
+152,TEDxBoulder,United States
+153,TEDxBoulder 2011,United States
+154,TEDxBratislava,Slovakia
+155,TEDxBrighton,United States
+156,TEDxBrussels,Belgium
+157,TEDxCERN,Switzerland
+158,TEDxCHUV,United States
+159,TEDxCMU,United States
+160,TEDxCaFoscariU,United States
+161,TEDxCaltech,United States
+162,TEDxCambridge,UK
+163,TEDxCanberra,Australia
+164,TEDxCannes,France
+165,TEDxChange,United States
+166,TEDxChapmanU,United States
+167,TEDxClaremontColleges,United States
+168,TEDxColbyCollege,United States
+169,TEDxColoradoSprings,United States
+170,TEDxColumbus,United States
+171,TEDxColumbusWomen,United States
+172,TEDxConcorde,United States
+173,TEDxConcordiaUPortland,United States
+174,TEDxCreativeCoast,United States
+175,TEDxCrenshaw,United States
+176,TEDxDU 2010,United States
+177,TEDxDU 2011,United States
+178,TEDxDanubia,Hungary
+179,TEDxDeExtinction,United States
+180,TEDxDelft,Netherlands
+181,TEDxDesMoines,United States
+182,TEDxDirigo,United States
+183,TEDxDubai,UAE
+184,TEDxDublin,Ireland
+185,TEDxEQChCh,United States
+186,TEDxEast,United States
+187,TEDxEastEnd,United States
+188,TEDxEdmonton,Canada
+189,TEDxEuston,UK
+190,TEDxExeter,UK
+191,TEDxFiDiWomen,United States
+192,TEDxFrankfurt,Germany
+193,TEDxFulbrightDublin,Ireland
+194,TEDxGatewayWomen,United States
+195,TEDxGeorgetown,United States
+196,TEDxGhent,Belgium
+197,TEDxGlasgow,UK
+198,TEDxGoldenGatePark 2012,United States
+199,TEDxGoodenoughCollege,UK
+200,TEDxGrandRapids,United States
+201,TEDxGreatPacificGarbagePatch,United States
+202,TEDxGroningen,Netherlands
+203,TEDxGöteborg 2010,Sweden
+204,TEDxHamburg,Germany
+205,TEDxHampshireCollege,United States
+206,TEDxHelvetia,United States
+207,TEDxHogeschoolUtrecht,Netherlands
+208,TEDxHousesOfParliament,UK
+209,TEDxHouston,United States
+210,TEDxImperialCollege,UK
+211,TEDxIndianaUniversity,United States
+212,TEDxIndianapolis,United States
+213,TEDxJaffa 2012,Israel
+214,TEDxJaffa 2013,Israel
+215,TEDxKC,United States
+216,TEDxKids@Ambleside,UK
+217,TEDxKrakow,Poland
+218,TEDxKyoto,Japan
+219,TEDxLeuvenSalon,Belgium
+220,TEDxLinnaeusUniversity,Sweden
+221,TEDxLondonBusinessSchool,UK
+222,TEDxMaastricht,Netherlands
+223,TEDxManchester,UK
+224,TEDxManhattan,United States
+225,TEDxManhattanBeach,United States
+226,TEDxMarin,United States
+227,TEDxMaui,United States
+228,TEDxMet,United States
+229,TEDxMiamiUniversity,United States
+230,TEDxMidAtlantic,United States
+231,TEDxMidAtlantic 2013,United States
+232,TEDxMidwest,United States
+233,TEDxMileHigh,United States
+234,TEDxMonroeCorrectionalComplex,United States
+235,TEDxMontreal,Canada
+236,TEDxMtHood,United States
+237,TEDxMuncyStatePrison,United States
+238,TEDxNASA,United States
+239,TEDxNASA@SiliconValley,United States
+240,TEDxNYED,United States
+241,TEDxNatick,United States
+242,TEDxNewYork,United States
+243,TEDxNewy,United States
+244,TEDxNextGenerationAsheville,United States
+245,TEDxNijmegen,Netherlands
+246,TEDxNorrkoping,Sweden
+247,TEDxNorthwesternU,United States
+248,TEDxO'Porto,United States
+249,TEDxObserver,United States
+250,TEDxOilSpill,United States
+251,TEDxOmaha,United States
+252,TEDxOrangeCoast,United States
+253,TEDxOrcasIsland,United States
+254,TEDxOslo,Norway
+255,TEDxPSU,United States
+256,TEDxParis 2010,France
+257,TEDxParis 2012,France
+258,TEDxPeachtree,United States
+259,TEDxPenn,United States
+260,TEDxPennQuarter,United States
+261,TEDxPennsylvaniaAvenue,United States
+262,TEDxPerth,Australia
+263,TEDxPhoenix,United States
+264,TEDxPlaceDesNations,Switzerland
+265,TEDxPortland,United States
+266,TEDxPortofSpain,Trinidad and Tobago
+267,TEDxProvidence,United States
+268,TEDxPuget Sound,United States
+269,TEDxRC2,United States
+270,TEDxRainier,United States
+271,TEDxRiodelaPlata,Argentina
+272,TEDxRotterdam 2010,Netherlands
+273,TEDxSBU,United States
+274,TEDxSF,United States
+275,TEDxSFU,United States
+276,TEDxSMU,United States
+277,TEDxSaltLakeCity,United States
+278,TEDxSanDiego,United States
+279,TEDxSanJoseCA,United States
+280,TEDxSanMigueldeAllende,Mexico
+281,TEDxSanQuentin,United States
+282,TEDxSeattleU,United States
+283,TEDxSeoul,South Korea
+284,TEDxSiliconValley,United States
+285,TEDxSkoll,United States
+286,TEDxSonomaCounty,United States
+287,TEDxSouthBank,UK
+288,TEDxStanford,United States
+289,TEDxSummit,United States
+290,TEDxSussexUniversity,UK
+291,TEDxSydney,Australia
+292,TEDxTC,United States
+293,TEDxTeen,United States
+294,TEDxTelAviv 2010,Israel
+295,TEDxThessaloniki,Greece
+296,TEDxTokyo,Japan
+297,TEDxToronto,Canada
+298,TEDxToronto 2010,Canada
+299,TEDxToronto 2011,Canada
+300,TEDxToulouse,France
+301,TEDxUF,United States
+302,TEDxUIUC,United States
+303,TEDxUM,United States
+304,TEDxUMKC,United States
+305,TEDxUSC,United States
+306,TEDxUW,United States
+307,TEDxUdeM,United States
+308,TEDxUniversityofNevada,United States
+309,TEDxUofM,United States
+310,TEDxVancouver,Canada
+311,TEDxVictoria,Canada
+312,TEDxVienna,Austria
+313,TEDxVirginiaTech,United States
+314,TEDxWarwick,UK
+315,TEDxWinnipeg,Canada
+316,TEDxWitsUniversity,South Africa
+317,TEDxWomen 2011,United States
+318,TEDxWomen 2012,United States
+319,TEDxYYC,United States
+320,TEDxYouth@Manchester,UK
+321,TEDxYouth@Sydney,Australia
+322,TEDxZurich,Switzerland
+323,TEDxZurich 2011,Switzerland
+324,TEDxZurich 2012,Switzerland
+325,TEDxZurich 2013,Switzerland
+326,Taste3 2008,United States
