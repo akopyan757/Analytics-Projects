@@ -21,7 +21,7 @@ This repository contains various analytics projects. Below is a description of e
    - **Tasks:** Explore key factors that influence user retention and app engagement.
    - **Data:** User activity logs, sales data, and app usage metrics.
    - **Python Libraries:** `pandas`, `numpy`, `matplotlib`, `seaborn`
-   - **Notebook Link:** [Russian](https://github.com/akopyan757/Analytics-Projects/blob/main/Mobile%20app%20for%20selling%20food%20products/Project.%20Research%20of%20a%20mobile%20app%20for%20selling%20food%20products.ipynb)
+   - **Notebook Link:** [Russian](https://github.com/akopyan757/Analytics-Projects/blob/main/Mobile%20app%20for%20selling%20food%20products/Project.%20Research%20of%20a%20mobile%20app%20for%20selling%20food%20products%20(Russian).ipynb) [English](https://github.com/akopyan757/Analytics-Projects/blob/main/Mobile%20app%20for%20selling%20food%20products/Project.%20Research%20of%20a%20mobile%20app%20for%20selling%20food%20products%20(English).ipynb)
   
 ### 4. **Moscow Catering Establishments**
    - **Goal:** Study the market of catering establishments in Moscow.
