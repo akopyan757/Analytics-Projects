@@ -48,7 +48,7 @@ This repository contains various analytics projects. Below is a description of e
    - **Tasks:** Examine user retention, engagement metrics, and sales performance.
    - **Data:** User activity logs and transaction data.
    - **Python Libraries:** `pandas`, `numpy`, `matplotlib`, `seaborn`
-   - **Notebook Link:** [Russian](https://github.com/akopyan757/Analytics-Projects/blob/main/Unused%20things/Project%20%22Unused%20Things%22.%20Mobile%20App%20Research%20(Russian).ipynb)
+   - **Notebook Link:** [Russian](https://github.com/akopyan757/Analytics-Projects/blob/main/Unused%20things/Project%20%22Unused%20Things%22.%20Mobile%20App%20Research%20(Russian).ipynb) [English](https://github.com/akopyan757/Analytics-Projects/blob/main/Unused%20things/Project%20%22Unused%20Things%22.%20Mobile%20App%20Research%20(English).ipynb)
 
 ### 8. **Video Games in the Online Store**
    - **Goal:** Study video game sales trends in an online store.
