@@ -7,7 +7,7 @@ This repository contains various analytics projects. Below is a description of e
    - **Tasks:** Evaluate key KPIs such as user retention, conversion rates, LTV, and ROI, while identifying trends impacting user behavior and app performance.
    - **Data:** App usage data, user activity logs, and revenue reports.
    - **Python Libraries:** `pandas`, `matplotlib`, `seaborn`
-   - **Notebook Link:** [Russian](https://github.com/akopyan757/Analytics-Projects/blob/main/Analysis%20of%20Business%20Metrics%20for%20the%20App/Analysis%20of%20Business%20Metrics%20for%20the%20App.ipynb) [English]()
+   - **Notebook Link:** [Russian](https://github.com/akopyan757/Analytics-Projects/blob/main/Analysis%20of%20Business%20Metrics%20for%20the%20App/Analysis%20of%20Business%20Metrics%20for%20the%20App%20(Russian).ipynb) [English](https://github.com/akopyan757/Analytics-Projects/blob/main/Analysis%20of%20Business%20Metrics%20for%20the%20App/Analysis%20of%20Business%20Metrics%20for%20the%20App%20(English).ipynb)
   
 ### 2. **Increase Online Store Revenue**
    - **Goal:** Develop strategies to increase the revenue of an online store.
